@@ -1,3 +1,5 @@
+This project is deprecated and unmaintained. Proceed with caution!
+
 # Hugo
 A Fast and Flexible Static Site Generator built with love by [spf13](http://spf13.com) 
 and [friends](http://github.com/spf13/hugo/graphs/contributors) in Go.
